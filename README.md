@@ -8,3 +8,6 @@ npm i
 npm install --legacy-peer-deps
 npm start
 
+
+Used firebase for user login 
+

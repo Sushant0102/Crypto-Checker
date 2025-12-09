@@ -1,4 +1,4 @@
-If you face this type of error
+   If you face this type of error
 'react-scripts' is not recognized as an internal or external command,
 operable program or batch file.
 Then 
@@ -10,4 +10,4 @@ npm start
 
 
 Used firebase for user login 
-
+coingecko
